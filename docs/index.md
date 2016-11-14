@@ -7,7 +7,7 @@ I have considered myself an independent voter and not a a democrat, though I ten
 ## Beliefs
 I believe in the Constitution of the United States and the principles and processes outlined in it, including those that allow them to be modified as the environment they are used in changes. I believe the Declaration of Independence was a brilliantly written way to present civil discord. I believe most of the Founding Fathers of the US held different religious beliefs but were all members of The Enlightenment period. Therefore, they used sound scientific principles of their time, but they did not have access to the engineering practices of the modern age.
 
-I also believe in the scientific process, especially as modified by standard engineering processes.
+I also believe in the scientific process, especially as modified by standard engineering processes. Therefore, I also believe that evolutionary and incremental changes are preferable to more disruptive changes. That stated, I believe more disruptive changes are sometimes necessary, though they require a plan for transition. I also believe the spirit of these principles are well described by the Zen of Python (https://www.python.org/dev/peps/pep-0020/) and those that aren't programming language specific or directly referencing Guido could help the government.
 
 I believe the overwhelming majority of people would like to do better for themselves if given an opportunity that does not discourage them along the way. I believe that every person should have the ability to live and die with dignity.
 
