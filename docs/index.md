@@ -5,7 +5,7 @@ This is my profile for my political views.  I proudly declare myself to be part 
 I have considered myself an independent voter and not a a democrat, though I tend to lean "left". I have looked into the libertarian mindset and am intrigued with some of the principle. Though I was raised Roman Catholic as a child, I am a mainstream protestant that has searched other religions, including agnostic and atheist, shallowly.
 
 ## Beliefs
-I believe in the Constitution of the United States and the principles outlined in it. I believe the Declaration of Independence was a brilliantly written way to present civil discord. I believe most of the Founding Fathers of the US held different religious beliefs but were all members of The Enlightenment period. Therefore, they used sound scientific principles of their time, but they did not have access to the engineering practices of the modern age.
+I believe in the Constitution of the United States and the principles and processes outlined in it, including those that allow them to be modified as the environment they are used in changes. I believe the Declaration of Independence was a brilliantly written way to present civil discord. I believe most of the Founding Fathers of the US held different religious beliefs but were all members of The Enlightenment period. Therefore, they used sound scientific principles of their time, but they did not have access to the engineering practices of the modern age.
 
 I also believe in the scientific process, especially as modified by standard engineering processes.
 
